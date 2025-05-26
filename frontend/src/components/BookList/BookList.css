@@ -25,8 +25,8 @@
 
 .book-list button {
   background-color: #fff;
-  color: red;
-  border: 1px solid red;
+  color: rgb(0, 89, 255);
+  border: 1px solid rgb(0, 89, 255);
   padding: 8px 12px;
   border-radius: 3px;
   cursor: pointer;
@@ -34,7 +34,7 @@
 }
 
 .book-list button:hover {
-  background-color: #fdd;
+  background-color: rgb(212, 227, 255);
 }
 
 .book-list .highlight {
