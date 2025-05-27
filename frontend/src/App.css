@@ -10,13 +10,13 @@
   background-color: #044799;
   color: #fff;
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .app-main {
   display: flex;
   justify-content: space-between;
-  width: 80%;
+  width: 90%;
   margin: 0 auto;
 }
 
